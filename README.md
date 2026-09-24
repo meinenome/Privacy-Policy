@@ -1,79 +1,46 @@
-<!DOCTYPE html>
-<html lang="en">
+SimplesPro Privacy Policy
+Effective date: 24 September 2026
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Simples Invoice - Privacy Policy</title>
-</head>
+SimplesPro ("the app") is an invoicing app for iPhone, iPad and Mac made by Danniel Oliveira, a sole developer based in New South Wales, Australia ("I", "me"). This policy explains what information the app handles and how. In short: your data stays on your device. I don't collect it, see it, sell it or share it.
 
-<body>
+1. Information the app stores on your device
+To create invoices, the app stores the information you enter:
 
-    <h1>Privacy Policy for Simples Invoice</h1>
+Your business details: business name, ABN, contact details, and bank/PayPal payment details you choose to show on invoices.
+Client details: names, email addresses, phone numbers, addresses and ABNs you enter or pick from your contacts.
+Invoices: line items, amounts, GST, dates, notes and payment status.
+This information is stored only on your device. The app has no account or login, and no server, and it does not send this information to me or to any third party. It may be included in your own device backups (for example iCloud Backup), which Apple manages under its privacy policy.
 
-    <p>Effective Date: [Date]</p>
+2. Information I collect
+None. The app contains no analytics, advertising or tracking tools, and no third-party SDKs. I do not collect usage data, device identifiers, location or crash data through the app. (If you choose to share crash reports with developers in your iPhone settings, Apple may pass anonymous crash reports to me.)
 
-    <h2>1. Introduction</h2>
+3. Contacts
+When you tap the contact button, the iOS contact picker opens. The app only receives the name of the contact you choose, to fill in the client name. It cannot read your other contacts.
 
-    <p>Welcome to Simples Invoice. This Privacy Policy is designed to inform you about how we collect, use, and safeguard your personal information. By using Simples Invoice, you agree to the practices described in this Privacy Policy.</p>
+4. Siri and voice invoices
+If you create an invoice with Siri, Apple converts your speech to text under Apple's privacy policy. The app then reads that text on your device, using Apple's on-device model on supported devices, to fill in the invoice. Your words are not sent to me or to any other service.
 
-    <h2>2. Information We Collect</h2>
+5. Sending invoices
+When you email, text or share an invoice, the PDF is created on your device and handed to the app you choose (Mail, Messages, etc.). That app, and the person you send it to, handle it under their own policies.
 
-    <ul>
-        <li><strong>Personal Information:</strong> When you create an account or use our app, we may collect personal information such as your name, email address, business details, and contact information.</li>
+6. Payment reminders
+Reminders are local notifications scheduled on your device. No information is sent to a server.
 
-        <li><strong>Invoice Information:</strong> Simples Invoice allows you to create and share invoices. The app stores invoice details, including business names, contact details, invoice numbers, and financial transaction information.</li>
+7. Subscriptions and purchases
+SimplesPro Pro is an auto-renewable subscription sold through Apple's App Store. Apple processes all payments. The app only receives confirmation of whether your subscription is active. I never receive your name, Apple ID, card or payment details. You can manage or cancel your subscription in Settings › [your name] › Subscriptions. Apple's handling of purchases is covered by Apple's privacy policy.
 
-        <li><strong>Usage Data:</strong> We may collect information about how you interact with the app, including features used, time spent, and other analytics data to improve our services.</li>
-    </ul>
+8. Deleting your data
+You can delete invoices and clients in the app, and clear your business details in Settings. Deleting the app removes all of its data from your device (except any copies in your own device backups).
 
-    
+9. Children
+The app is a business tool and is not directed to children under 13.
 
-    <h2>3. How We Use Your Information</h2>
+10. Your rights (Australia)
+I handle personal information in line with the Privacy Act 1988 (Cth) and the Australian Privacy Principles. Because I don't hold any of your information, there is nothing for me to access, correct or delete. Your data is under your control on your device. If you have a question or complaint, contact me using the email below. If you're not satisfied with my response, you can contact the Office of the Australian Information Commissioner (oaic.gov.au).
 
-    <ul>
-        <li><strong>Invoice Processing:</strong> To create, manage, and share invoices as per your instructions.</li>
+11. Changes to this policy
+If this policy changes, I'll update this page and the effective date above. If a change affects how your information is handled, it will also be noted in the app's release notes.
 
-        <li><strong>User Account Management:</strong> To manage user accounts, provide customer support, and communicate with users.</li>
-
-        <li><strong>Analytics:</strong> To analyze user behavior and improve the functionality and user experience of Simples Invoice.</li>
-    </ul>
-
-    
-
-    <h2>4. Sharing of Information</h2>
-
-    <ul>
-        <li><strong>Invoicing:</strong> Simples Invoice allows you to share invoices through email, messages, and WhatsApp. The app will share the selected invoice information based on your sharing preferences.</li>
-
-        <li><strong>Third-Party Integration:</strong> We may use third-party services to enhance app functionality. These services may collect and process data as described in their respective privacy policies.</li>
-    </ul>
-
-   
-
-    <h2>5. Data Security</h2>
-
-    <p>We take data security seriously. Simples Invoice employs industry-standard security measures to protect your information from unauthorized access, disclosure, alteration, and destruction.</p>
-
-  
-
-    <h2>6. Your Choices</h2>
-
-    <ul>
-        <li><strong>Account Information:</strong> You can review and update your account information in the app settings,as we use local database once the app is deleted from your device all the data is will also be deleted .</li>
-
-    </ul>
-
-   
-
-    <h2>7. Changes to this Privacy Policy</h2>
-
-    <p>We reserve the right to update or modify this Privacy Policy at any time. Any changes will be effective immediately upon posting the updated policy on the app.</p>
-
-    <h2>8. Contact Us</h2>
-
-    <p>If you have questions or concerns about this Privacy Policy, please contact us at dannielappdevelopment@gmail.com.</p>
-
-</body>
-
-</html>
+12. Contact
+Danniel Oliveira
+Email: dannielappdevelopment@gmail.com
